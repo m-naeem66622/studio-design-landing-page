@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/studio-design-landing-page/static/css/main.752978aa.css",
+    "main.js": "/studio-design-landing-page/static/js/main.d8ed7603.js",
+    "static/js/787.bdadd504.chunk.js": "/studio-design-landing-page/static/js/787.bdadd504.chunk.js",
+    "static/media/image-1.png": "/studio-design-landing-page/static/media/image-1.ebc858b1eb43dbb123ab.png",
+    "static/media/image-2.jpeg": "/studio-design-landing-page/static/media/image-2.3df7df32bd88e8475ad9.jpeg",
+    "static/media/AvertaDemoPE-Regular.otf": "/studio-design-landing-page/static/media/AvertaDemoPE-Regular.fc61eaf9e9ac3dd24896.otf",
+    "static/media/Amazon_Logo.svg": "/studio-design-landing-page/static/media/Amazon_Logo.24932d135ccaab0c10cd25d3397bd5d2.svg",
+    "static/media/Airbnb_Logo.svg": "/studio-design-landing-page/static/media/Airbnb_Logo.8ee198155c430755759f4f18873f1884.svg",
+    "static/media/dot.svg": "/studio-design-landing-page/static/media/dot.49949264d9e268fc001544c9e99d0153.svg",
+    "static/media/Uber_Eats_Logo.svg": "/studio-design-landing-page/static/media/Uber_Eats_Logo.2acf42130faa5047b77fcc3b40aedf1a.svg",
+    "static/media/Google_Logo.svg": "/studio-design-landing-page/static/media/Google_Logo.462a376aeb6123ccd5d0b7c51eb227af.svg",
+    "static/media/empty-wallet.svg": "/studio-design-landing-page/static/media/empty-wallet.ac2983073bb09890bb43b1fa210224f6.svg",
+    "static/media/box-search.svg": "/studio-design-landing-page/static/media/box-search.2482047791ffea1e25913e616a6cd049.svg",
+    "static/media/code.svg": "/studio-design-landing-page/static/media/code.697eb6fc93f0676b67792d25466a74b1.svg",
+    "static/media/chart-square.svg": "/studio-design-landing-page/static/media/chart-square.663ac4285d3c8228d0f1a17b8c327961.svg",
+    "index.html": "/studio-design-landing-page/index.html",
+    "static/media/play-btn.svg": "/studio-design-landing-page/static/media/play-btn.f320452ac6111a12c6077ab26bb5d6e4.svg",
+    "static/media/rectangle-1.svg": "/studio-design-landing-page/static/media/rectangle-1.174582cd60be967395a874ecd07d1696.svg",
+    "main.752978aa.css.map": "/studio-design-landing-page/static/css/main.752978aa.css.map",
+    "main.d8ed7603.js.map": "/studio-design-landing-page/static/js/main.d8ed7603.js.map",
+    "787.bdadd504.chunk.js.map": "/studio-design-landing-page/static/js/787.bdadd504.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.752978aa.css",
+    "static/js/main.d8ed7603.js"
+  ]
+}
