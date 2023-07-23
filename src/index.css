@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Averta Demo PE Cutted Demo";
+    src: url("./assets/AvertaDemoPE-Regular.otf");
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
+
+@layer base {
+    html {
+        font-family: "Averta Demo PE Cutted Demo", sans-serif;
+    }
+}
+
+#wrapper__HowCanWeHelp {
+    @apply flex items-center before:content-[""] before:absolute before:w-[1047px] before:h-[619px] before:right-0 before:top-2/4 before:-translate-y-2/4 before:bg-[#F4F9FF] before:-z-20 before:rounded-tl-[150px];
+}
+
+#input__wrapper {
+    @apply bg-[#FFFFFF] absolute border-[1px] border-[#F1F1F1] outline-0 rounded-[60px] p-[10px] -translate-y-2/4 top-2/4 right-[90px] shadow-custom;
+}
+
+.card {
+    @apply w-[308px] h-[379px] bg-white rounded-[40px] border border-zinc-100 px-8 pt-10 pb-14 relative flex flex-col justify-between items-center text-center shadow-custom;
+}
