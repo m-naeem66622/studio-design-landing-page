@@ -1,11 +1,20 @@
 {
   "files": {
-    "main.css": "/studio-design-landing-page/static/css/main.752978aa.css",
-    "main.js": "/studio-design-landing-page/static/js/main.d8ed7603.js",
+    "main.css": "/studio-design-landing-page/static/css/main.bc10dba7.css",
+    "main.js": "/studio-design-landing-page/static/js/main.7c318a83.js",
     "static/js/787.bdadd504.chunk.js": "/studio-design-landing-page/static/js/787.bdadd504.chunk.js",
     "static/media/image-1.png": "/studio-design-landing-page/static/media/image-1.ebc858b1eb43dbb123ab.png",
+    "static/media/image-3.jpeg": "/studio-design-landing-page/static/media/image-3.81a159205953617a5402.jpeg",
     "static/media/image-2.jpeg": "/studio-design-landing-page/static/media/image-2.3df7df32bd88e8475ad9.jpeg",
     "static/media/AvertaDemoPE-Regular.otf": "/studio-design-landing-page/static/media/AvertaDemoPE-Regular.fc61eaf9e9ac3dd24896.otf",
+    "static/media/client-6.jpeg": "/studio-design-landing-page/static/media/client-6.79c2e63a27ca05bb271f.jpeg",
+    "static/media/client-1.jpeg": "/studio-design-landing-page/static/media/client-1.67697f2e7a1759f91fc9.jpeg",
+    "static/media/client-7.jpeg": "/studio-design-landing-page/static/media/client-7.ccf5df6feab3ca3caea4.jpeg",
+    "static/media/client-8.jpeg": "/studio-design-landing-page/static/media/client-8.1e300048145d718781a7.jpeg",
+    "static/media/client-2.jpeg": "/studio-design-landing-page/static/media/client-2.59221af5aea5be392578.jpeg",
+    "static/media/client-3.jpeg": "/studio-design-landing-page/static/media/client-3.c4ad32d8e6a4a9af4d95.jpeg",
+    "static/media/client-4.jpeg": "/studio-design-landing-page/static/media/client-4.58d8a2cdd2a816de4c90.jpeg",
+    "static/media/client-5.jpeg": "/studio-design-landing-page/static/media/client-5.f0f6db5b857796f8da97.jpeg",
     "static/media/Amazon_Logo.svg": "/studio-design-landing-page/static/media/Amazon_Logo.24932d135ccaab0c10cd25d3397bd5d2.svg",
     "static/media/Airbnb_Logo.svg": "/studio-design-landing-page/static/media/Airbnb_Logo.8ee198155c430755759f4f18873f1884.svg",
     "static/media/dot.svg": "/studio-design-landing-page/static/media/dot.49949264d9e268fc001544c9e99d0153.svg",
@@ -15,15 +24,18 @@
     "static/media/box-search.svg": "/studio-design-landing-page/static/media/box-search.2482047791ffea1e25913e616a6cd049.svg",
     "static/media/code.svg": "/studio-design-landing-page/static/media/code.697eb6fc93f0676b67792d25466a74b1.svg",
     "static/media/chart-square.svg": "/studio-design-landing-page/static/media/chart-square.663ac4285d3c8228d0f1a17b8c327961.svg",
+    "static/media/twitter.svg": "/studio-design-landing-page/static/media/twitter.6f21bd07afb58f15af38365fe570f210.svg",
+    "static/media/linkedin.svg": "/studio-design-landing-page/static/media/linkedin.dae785f8c006052eb082a3ccee65a877.svg",
     "index.html": "/studio-design-landing-page/index.html",
+    "static/media/facebook.svg": "/studio-design-landing-page/static/media/facebook.d2cef0d57a15122bdcfe3259b341bf37.svg",
     "static/media/play-btn.svg": "/studio-design-landing-page/static/media/play-btn.f320452ac6111a12c6077ab26bb5d6e4.svg",
     "static/media/rectangle-1.svg": "/studio-design-landing-page/static/media/rectangle-1.174582cd60be967395a874ecd07d1696.svg",
-    "main.752978aa.css.map": "/studio-design-landing-page/static/css/main.752978aa.css.map",
-    "main.d8ed7603.js.map": "/studio-design-landing-page/static/js/main.d8ed7603.js.map",
+    "main.bc10dba7.css.map": "/studio-design-landing-page/static/css/main.bc10dba7.css.map",
+    "main.7c318a83.js.map": "/studio-design-landing-page/static/js/main.7c318a83.js.map",
     "787.bdadd504.chunk.js.map": "/studio-design-landing-page/static/js/787.bdadd504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.752978aa.css",
-    "static/js/main.d8ed7603.js"
+    "static/css/main.bc10dba7.css",
+    "static/js/main.7c318a83.js"
   ]
 }
