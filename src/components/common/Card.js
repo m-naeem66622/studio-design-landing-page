@@ -1,7 +1,6 @@
 import React from "react";
 import Image from "./Image";
 import SquareElement from "./SquareElement";
-import Heading from "./Heading";
 import Text from "./Text";
 
 function Card({ children, className, data }) {
@@ -15,7 +14,7 @@ function Card({ children, className, data }) {
                 <Image src={src} />
             </SquareElement>
             <h1 className="text-2xl">{heading}</h1>
-            <Text className="text-base">{text}</Text>
+            <Text className="text-[#757575] text-base">{text}</Text>
             {children}
         </div>
     );

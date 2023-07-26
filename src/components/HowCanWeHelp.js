@@ -52,7 +52,7 @@ function HowCanWeHelp() {
                         <br />
                         your Business ?
                     </Heading>
-                    <Text className="text-base">
+                    <Text className="text-[#565656] text-base">
                         We build readymade websites, mobile applications,
                         <br />
                         and elaborate online business services.

@@ -29,7 +29,7 @@ function GreatSince() {
                             <br />
                             Agency since 2016
                         </Heading>
-                        <Text className="text-base">
+                        <Text className="text-[#565656] text-base">
                             Our Business Plan is a written document describing a
                             company's core business activites, Objectives, and
                             how it plans to achieve its goals. Our goal is to

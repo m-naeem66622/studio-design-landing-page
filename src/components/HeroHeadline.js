@@ -16,7 +16,7 @@ function HeroHeadline() {
                     <Heading className="mb-[40px]">
                         A Digital Product Agency
                     </Heading>
-                    <Text className="mb-[33px] text-base">
+                    <Text className="text-[#757575] mb-[33px] text-base">
                         Leading digital agency with solid design and development
                         expertise. We build readymade websites, mobile
                         applications, and elaborate online business services.

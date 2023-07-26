@@ -14,7 +14,7 @@ function OurClient() {
             <Container className="flex gap-[60px] items-end">
                 <div>
                     <Heading className="mb-[17px]">Our Client</Heading>
-                    <Text className="w-[336px] text-lg">
+                    <Text className="text-[#757575] w-[336px] text-lg">
                         Several selected clients, who already believe in our
                         service.
                     </Text>

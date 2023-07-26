@@ -10,13 +10,13 @@ import Dot from "./common/Dot";
 
 function NewsLetter() {
     return (
-        <section className="mb-[107px]">
+        <section className="pt-14 pb-10 mb-[107px]">
             <Container className="!px-0 !pl-[92px] !mx-[120px] flex bg-[#F4F9FF] rounded-[75px] justify-between items-center relative">
                 <div className="">
                     <Heading className={"mb-[17px]"}>
                         Subscribe Newsletter
                     </Heading>
-                    <Text className="text-lg">
+                    <Text className="text-[#757575] text-lg">
                         I will update good news and promotion service not spam
                     </Text>
                 </div>

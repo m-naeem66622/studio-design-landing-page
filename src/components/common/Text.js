@@ -1,10 +1,13 @@
 import React from "react";
 
-function Text({ children, className }) {
+function Text({ as, children, className }) {
+    const ContainerElement = as || "p";
     return (
-        <p className={`text-[#565656] font-normal ${className || ""}`}>
+        <ContainerElement
+            className={`font-normal ${className || ""}`}
+        >
             {children}
-        </p>
+        </ContainerElement>
     );
 }
 
