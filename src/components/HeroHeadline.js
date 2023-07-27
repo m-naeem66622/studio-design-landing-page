@@ -22,15 +22,13 @@ function HeroHeadline() {
                         applications, and elaborate online business services.
                     </Text>
                     <div className="relative">
-                        <Button className="text-xl h-[60px]">
-                            Contact Now
-                        </Button>
-                        <Dot className="dot-2 top-[35px]" />
+                        <Button className="text-xl">Contact Now</Button>
+                        <Dot className="dot-2 -left-[53px] top-[35px]" />
                     </div>
                 </div>
                 <div className="relative">
                     <SquareElement className="w-[129px] bg-[#DAE9FF] -translate-x-2/4 rounded-full" />
-                    <SquareElement className="w-[178px] bg-[#FFF5DB] rounded-br-full right-[120px] -bottom-[96px]" />
+                    <SquareElement className="w-[178px] bg-[#FFF5DB] rounded-br-[100px] right-[120px] -bottom-[96px]" />
                     <Image
                         src={Image_1}
                         className="w-[754px] h-[512px] rounded-bl-[200px] overflow-hidden"

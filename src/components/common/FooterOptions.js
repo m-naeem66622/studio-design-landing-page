@@ -4,7 +4,7 @@ import Text from "./Text";
 function FooterOptions({ heading, links }) {
     return (
         <div className="">
-            <h1 className="text-2xl mb-6">{heading}</h1>
+            <h1 className="text-2xl mb-6 font-black">{heading}</h1>
             <ul className="">
                 {links.map((link, index) => (
                     <Text

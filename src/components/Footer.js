@@ -34,7 +34,8 @@ function Footer() {
     return (
         <section>
             <Container className="flex flex-col">
-                <div className="flex mb-[46px] gap-x-48">
+                <div className="h-[1px] bg-[#E4E4E4] mb-[60px]"></div>
+                <div className="flex mb-[29px] gap-x-48">
                     <div className="max-w-[270px]">
                         <div className="text-black text-[27.147px] leading-[34px] mb-[26px]">
                             <span className="font-bold">A+</span>
@@ -58,6 +59,7 @@ function Footer() {
                         ))}
                     </div>
                 </div>
+                <div className="h-[1px] bg-[#F1F1F1] mb-[17px]"></div>
                 <Text className="text-[#757575] text-lg text-center mb-6 leading-snug">
                     Copyright © 2022 Avi Yansah
                 </Text>

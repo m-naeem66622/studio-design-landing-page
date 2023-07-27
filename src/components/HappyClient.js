@@ -16,6 +16,8 @@ import client_7 from "../assets/Clients/client-7.jpeg";
 import client_8 from "../assets/Clients/client-8.jpeg";
 
 function HappyClient() {
+    const activeSlider = 1;
+
     return (
         <section className="mb-[92px]">
             <Container className="flex flex-col pr-0">
@@ -28,7 +30,7 @@ function HappyClient() {
                         service.
                     </Text>
                 </div>
-                <div className="flex justify-between">
+                <div className="flex justify-between items-center">
                     <div className="relative w-[390px]">
                         <Image
                             className="w-[389px] aspect-square rounded-full rounded-tr-none overflow-hidden shadow-custom"
@@ -38,18 +40,30 @@ function HappyClient() {
                         <SquareElement className="w-[120px] rounded-full border-[8.8px] border-[#FF007A] bottom-3 -left-[10px] !-z-30" />
                     </div>
                     <div className="max-w-[412px] m-3">
-                        <h1 className="text-black text-2xl mb-6">
+                        <h1 className="text-black font-black leading-normal text-2xl mb-6">
                             Matthew Paul
                         </h1>
-                        <Text className="text-[#565656] text-base leading-relaxed">
+                        <Text className="text-[#565656] text-base leading-relaxed mb-10">
                             Perfect, very good job! Thank you for the amazing
                             design and work. Really impressed with the high
                             quality and quick turnaround time. Highly recommend.
                         </Text>
+                        <div className="flex gap-x-[26px]">
+                            {[1, 2, 3, 4, 5].map((elem, index) => (
+                                <SquareElement
+                                    key={index}
+                                    className={`w-4 !z-20 !static rounded-full overflow-hidden ${
+                                        elem == activeSlider
+                                            ? "bg-[#2639ED]"
+                                            : "bg-[#E7F0FC]"
+                                    }`}
+                                />
+                            ))}
+                        </div>
                     </div>
                     <div className="">
                         <div className="grid grid-cols-174 grid-rows-355 w-[348px] h-[355px]">
-                            <SquareElement className="w-[" />
+                            <SquareElement className="w-[184px] row-start-[109] col-start-[22] !static bg-[#FFF5DB] rounded-full" />
                             <Image
                                 src={client_1}
                                 className="w-[120px] aspect-square col-start-[124] row-start-[107] rounded-full overflow-hidden"

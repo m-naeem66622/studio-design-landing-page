@@ -24,7 +24,7 @@ function GreatSince() {
                 </div>
                 <div className="">
                     <div className="relative wrapper max-w-[532px]">
-                        <Heading className="mb-[30px]">
+                        <Heading className="mb-[30px] leading-[normal]">
                             Great Digital Product
                             <br />
                             Agency since 2016
