@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/studio-design-landing-page/static/css/main.bc10dba7.css",
-    "main.js": "/studio-design-landing-page/static/js/main.7c318a83.js",
+    "main.css": "/studio-design-landing-page/static/css/main.14cf121d.css",
+    "main.js": "/studio-design-landing-page/static/js/main.9ef476a0.js",
     "static/js/787.bdadd504.chunk.js": "/studio-design-landing-page/static/js/787.bdadd504.chunk.js",
     "static/media/image-1.png": "/studio-design-landing-page/static/media/image-1.ebc858b1eb43dbb123ab.png",
     "static/media/image-3.jpeg": "/studio-design-landing-page/static/media/image-3.81a159205953617a5402.jpeg",
@@ -30,12 +30,12 @@
     "static/media/facebook.svg": "/studio-design-landing-page/static/media/facebook.d2cef0d57a15122bdcfe3259b341bf37.svg",
     "static/media/play-btn.svg": "/studio-design-landing-page/static/media/play-btn.f320452ac6111a12c6077ab26bb5d6e4.svg",
     "static/media/rectangle-1.svg": "/studio-design-landing-page/static/media/rectangle-1.174582cd60be967395a874ecd07d1696.svg",
-    "main.bc10dba7.css.map": "/studio-design-landing-page/static/css/main.bc10dba7.css.map",
-    "main.7c318a83.js.map": "/studio-design-landing-page/static/js/main.7c318a83.js.map",
+    "main.14cf121d.css.map": "/studio-design-landing-page/static/css/main.14cf121d.css.map",
+    "main.9ef476a0.js.map": "/studio-design-landing-page/static/js/main.9ef476a0.js.map",
     "787.bdadd504.chunk.js.map": "/studio-design-landing-page/static/js/787.bdadd504.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc10dba7.css",
-    "static/js/main.7c318a83.js"
+    "static/css/main.14cf121d.css",
+    "static/js/main.9ef476a0.js"
   ]
 }
